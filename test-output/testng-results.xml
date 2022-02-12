@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="2" passed="2">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="11845" started-at="2022-02-12T18:34:53Z" finished-at="2022-02-12T18:35:05Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="11845" started-at="2022-02-12T18:34:53Z" finished-at="2022-02-12T18:35:05Z">
+      <class name="variousconcepts.TestNGhomework">
+        <test-method status="PASS" signature="readconfig()[pri:0, instance:variousconcepts.TestNGhomework@778d1062]" name="readconfig" is-config="true" duration-ms="13" started-at="2022-02-12T18:34:53Z" finished-at="2022-02-12T18:34:53Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- readconfig -->
+        <test-method status="PASS" signature="init()[pri:0, instance:variousconcepts.TestNGhomework@778d1062]" name="init" is-config="true" duration-ms="2848" started-at="2022-02-12T18:34:53Z" finished-at="2022-02-12T18:34:56Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- init -->
+        <test-method status="PASS" signature="LoginTest()[pri:1, instance:variousconcepts.TestNGhomework@778d1062]" name="LoginTest" duration-ms="1546" started-at="2022-02-12T18:34:56Z" finished-at="2022-02-12T18:34:58Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- LoginTest -->
+        <test-method status="PASS" signature="init()[pri:0, instance:variousconcepts.TestNGhomework@778d1062]" name="init" is-config="true" duration-ms="2716" started-at="2022-02-12T18:34:58Z" finished-at="2022-02-12T18:35:01Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- init -->
+        <test-method status="PASS" signature="AddcontactTest()[pri:2, instance:variousconcepts.TestNGhomework@778d1062]" name="AddcontactTest" duration-ms="4694" started-at="2022-02-12T18:35:01Z" finished-at="2022-02-12T18:35:05Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- AddcontactTest -->
+      </class> <!-- variousconcepts.TestNGhomework -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
